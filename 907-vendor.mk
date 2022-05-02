@@ -13,6 +13,6 @@
 # limitations under the License.
 
 # Pick up overlay for features that depend on non-open-source files
-DEVICE_PACKAGE_OVERLAYS := vendor/softwinner/mk802/overlay
+DEVICE_PACKAGE_OVERLAYS := vendor/softwinner/907/overlay
 
-$(call inherit-product, vendor/softwinner/mk802/mk802-blobs.mk)
+$(call inherit-product, vendor/softwinner/907/907-blobs.mk)

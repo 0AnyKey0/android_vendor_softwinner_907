@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := vendor/softwinner/mk802
+LOCAL_PATH := vendor/softwinner/907
 
 #Bin files
 PRODUCT_COPY_FILES += \
